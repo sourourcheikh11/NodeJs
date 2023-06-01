@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "backend-sequelize",
+=======
+  "name": "backend",
+>>>>>>> 0d9da100581d714aa57d7df8dbb8323fe00e6fb7
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +14,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+<<<<<<< HEAD
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
@@ -17,5 +22,10 @@
     "sequelize": "^6.29.1",
     "sequelize-auto": "^0.8.8",
     "sequelize-cli": "^6.6.0"
+=======
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.9.2"
+>>>>>>> 0d9da100581d714aa57d7df8dbb8323fe00e6fb7
   }
 }
